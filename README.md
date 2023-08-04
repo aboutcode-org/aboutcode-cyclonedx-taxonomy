@@ -34,6 +34,11 @@ their [official documentation](https://github.com/CycloneDX/cyclonedx-property-t
         <td>URL to the homepage for this package.</td>
         <td>components</td>
     </tr>
+    <tr>
+        <td><b>aboutcode:notice_text</b></td>
+        <td>The notice text provided by the authors of a package to identify the copyright statement(s), contributors, and/or license obligations that apply to a package.</td>
+        <td>components</td>
+    </tr>
 </tbody>
 </table>
 
