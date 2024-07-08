@@ -39,6 +39,11 @@ their [official documentation](https://github.com/CycloneDX/cyclonedx-property-t
         <td>The notice text provided by the authors of a package to identify the copyright statement(s), contributors, and/or license obligations that apply to a package.</td>
         <td>components</td>
     </tr>
+    <tr>
+        <td><b>aboutcode:package_uid</b></td>
+        <td>Unique identifier for this package.</td>
+        <td>components</td>
+    </tr>
 </tbody>
 </table>
 
